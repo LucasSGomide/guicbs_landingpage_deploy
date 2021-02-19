@@ -40,3 +40,8 @@
   text-transform: uppercase;
   width: 60%;
 }
+
+.plan-card button:hover {
+  background-color: rgb(74, 50, 133);
+  color: white;
+}

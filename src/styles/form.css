@@ -27,3 +27,8 @@ form {
   text-transform: uppercase;
   width: 100%;
 }
+
+.btn-submit:hover {
+  background-color: rgb(74, 50, 133);
+  color: white;
+}
