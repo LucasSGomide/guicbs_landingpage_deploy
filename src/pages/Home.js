@@ -27,7 +27,6 @@ function Home() {
         <p className="about-description">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet erat at.
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris laoreet erat at.
-          Alteração qualquer.
         </p>
       </section>
       <hr />
