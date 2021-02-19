@@ -1,6 +1,6 @@
 .home-footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-top: 30px;
   margin-bottom: 20px;
   width: 100%;
