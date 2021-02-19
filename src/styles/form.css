@@ -1,0 +1,28 @@
+.img-logo {
+  border-radius: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 60%;
+}
+
+form {
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.btn-submit {
+  background-color: rgb(228, 228, 228);
+  border-radius: 3px;
+  border-style: none;
+  color: rgb(74, 50, 133);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  outline: none;
+  padding: 3px;
+  text-transform: uppercase;
+  width: 100%;
+}

@@ -1,0 +1,24 @@
+.link-container {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.footer-link {
+  font-size: .9rem;
+  margin: auto;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-link a:visited {
+  color: white;
+}
+
+.footer-link a:hover {
+  color: white;
+}
+
+.footer-link a:active {
+  color: white;
+}

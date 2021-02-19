@@ -1,0 +1,12 @@
+.payment-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+label {
+  width: 100%;
+  font-size: 1.2rem;
+  color: rgb(228, 228, 228);
+}

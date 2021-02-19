@@ -1,0 +1,27 @@
+fieldset {
+  align-items: center;
+  border: none;
+  display: flex;
+  margin-top: 15px;
+  flex-direction: column;
+  width: 100%;
+}
+
+legend {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+fieldset p {
+  width: 100%;
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+}
+
+input {
+  text-align: center;
+  font-size: 1.2rem;
+  width: 100%;
+}

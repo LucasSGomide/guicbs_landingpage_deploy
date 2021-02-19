@@ -1,0 +1,12 @@
+.home-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.img-footer {
+  width: 50px;
+  margin: auto;
+}
